@@ -6,7 +6,7 @@
         {"name": "Caolan McMahon", "web": "https://github.com/caolan"}
     ],
     "dependencies": {
-        "tar": "~0.1.13",
+        "tar": "~4.4.2",
         "fstream-ignore": "~0.0.5",
         "fstream": "~0.1.18",
         "mkdirp": "~0.3.2",
